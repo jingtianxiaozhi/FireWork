@@ -1,4 +1,4 @@
-package com.xiaozhi.firework;
+package com.xiaozhi.firework_core;
 
 import android.app.Activity;
 import android.content.Context;
