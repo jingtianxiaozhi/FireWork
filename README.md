@@ -8,7 +8,7 @@
 
 #How To Use(Too Simple)
 ```java  
-//1.新建一个烟花效果
+//1.新建一个烟花效果(第二个参数是礼物资源Id)
 FireWorkView fireWorkView = new FireWorkView(MainActivity.this, R.drawable.heart);
 //2.在布局上增加烟花效果
 LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(-1, -1);
