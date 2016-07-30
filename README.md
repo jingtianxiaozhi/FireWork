@@ -4,9 +4,6 @@
 #效果图
 ![image](https://github.com/jingtianxiaozhi/FireWork/blob/master/gif/iclauncher.gif?raw=true)
 
-![image](https://github.com/jingtianxiaozhi/FireWork/blob/master/gif/rose.gif?raw=true)
-
-![image](https://github.com/jingtianxiaozhi/FireWork/blob/master/gif/heart.gif?raw=true)
 
 #Get it
 
