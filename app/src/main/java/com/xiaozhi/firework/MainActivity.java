@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
 
+import com.xiaozhi.firework_core.FireWorkView;
+
 public class MainActivity extends Activity {
 	private FireWorkView fireWorkView;
 	private LinearLayout linearlayout;

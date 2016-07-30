@@ -70,7 +70,7 @@ public class FireWorkView extends RelativeLayout {
         particleSystem.setFadeOut(200, new AccelerateInterpolator());
     }
 
-    protected void playAnim() {
+    public void playAnim() {
         fireImageView.setVisibility(View.VISIBLE);
         fireLayoutParams.leftMargin = random.nextInt(display_Width / 3) + display_Width / 3;
         fireImageView.setLayoutParams(fireLayoutParams);
