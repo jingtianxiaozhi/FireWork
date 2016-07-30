@@ -8,7 +8,13 @@
 
 ![image](https://github.com/jingtianxiaozhi/FireWork/blob/master/gif/heart.gif?raw=true)
 
+#Get it
+
+```java  
+compile 'com.jingtianxiaozhi.firework:firework-core:1.0.0'
+```
 #How To Use(Too Simple)
+
 ```java  
 //1.新建一个烟花效果(第二个参数是礼物资源Id)
 FireWorkView fireWorkView = new FireWorkView(MainActivity.this, R.drawable.heart);
